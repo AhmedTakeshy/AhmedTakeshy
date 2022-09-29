@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Takeshy</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **.. React.js**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **.. Open source projects**
 
 - 💬 Ask me about **HTML, CSS, and Javascript**
 
