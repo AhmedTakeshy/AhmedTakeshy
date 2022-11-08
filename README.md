@@ -14,7 +14,7 @@
 
 <br />
 
-<p>From time to time I am contributing to open source to improve projects web accessibility. I also have my own <a href="https://github.com/YurisCodingClub">open source projects</a> to contribute to. Beginners are very welcome 😇.</p>
+<p>From time to time I am contributing to open source to improve projects web accessibility 😇.</p>
 
 <br />
 
