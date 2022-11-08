@@ -14,7 +14,7 @@
 
 <br />
 
-<p>From time to time I am contributing to open source to improve projects web accessibility 😇.</p>
+<p align="center" >From time to time I am contributing to open source to improve projects web accessibility 😇.</p>
 
 <br />
 
