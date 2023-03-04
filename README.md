@@ -27,15 +27,17 @@
 <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />  
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 <!--
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 -->
@@ -46,13 +48,13 @@
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/AhmedTakeshy/Yelp-Campground/blob/master/public/screenshot.png" />
-  <img width="400" src="https://github.com/AhmedTakeshy/Leon-Design/blob/master/images/screenshot.png" />
- <a href="https://github.com/AhmedTakeshy/Yelp-Campground">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Yelp-Campground&theme=tokyonight" />
+  <img width="400" src="https://github.com/AhmedTakeshy/Flux-blockchain/blob/master/src/assets/ScreenShot%20.png" />
+  <img width="400" src="https://github.com/AhmedTakeshy/Majesto-Food/blob/master/src/assets/ScreenShot.png" />
+ <a href="https://github.com/AhmedTakeshy/Flux-blockchain">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Flux-blockchain&theme=tokyonight" />
 </a>
-  <a href="https://github.com/AhmedTakeshy/Leon-Design">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Leon-Design&theme=tokyonight" />
+  <a href="https://github.com/AhmedTakeshy/Majesto-Food">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Majesto-Food&theme=tokyonight" />
 </a>
 </p>
 
