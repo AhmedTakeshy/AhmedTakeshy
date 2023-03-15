@@ -2,8 +2,9 @@
 <h1 align="center">Hi there 👋, I'm Ahmed</h1>
 </p>
 <p align="center">
-<a href="mailto:ahmedtakeshy7@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://linkedin.com/in/ahmed-abdelsamie-a1a46a166" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>&nbsp;
+<a href="mailto:ahmedtakeshy7@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge" /></a>&nbsp;
+<a href="https://linkedin.com/in/ahmed-abdelsamie-a1a46a166" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/></a>&nbsp;
+<a href="https://takeshy.works" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio website"></a>&nbsp;
 </p>
 <br/>
 
