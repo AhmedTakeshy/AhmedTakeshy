@@ -49,10 +49,10 @@
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/AhmedTakeshy/Flux-blockchain/blob/master/src/assets/ScreenShot%20.png" />
+  <img width="400" src="https://github.com/AhmedTakeshy/Wanderly/blob/master/public/wanderly.png" />
   <img width="400" src="https://github.com/AhmedTakeshy/Majesto-Food/blob/master/src/assets/ScreenShot.png" />
- <a href="https://github.com/AhmedTakeshy/Flux-blockchain">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Flux-blockchain&theme=tokyonight" />
+ <a href="https://github.com/AhmedTakeshy/Wanderly">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Wanderly&theme=tokyonight" />
 </a>
   <a href="https://github.com/AhmedTakeshy/Majesto-Food">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Majesto-Food&theme=tokyonight" />
