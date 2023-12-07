@@ -9,7 +9,7 @@
 <br/>
 
 
-<p align="center">I'm passionate self-taught frontend developer since 2021.</p>
+<p align="center">I'm passionate self-taught frontend developer since 2020.</p>
 
 <h3 align="center">💟 Open Source & Community</h3>
 
