@@ -9,7 +9,7 @@
 <br/>
 
 
-<p align="center">I'm passionate self-taught frontend developer since 2020.</p>
+<p align="center">I'm passionate full-stack developer since 2020.</p>
 
 <h3 align="center">💟 Open Source & Community</h3>
 
@@ -31,36 +31,34 @@
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-<!--
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
--->
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>  
 </p>
 
+<br />
+<br />
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 <br />
 
 <p align="center">
   <img width="400" src="https://github.com/AhmedTakeshy/Wanderly/blob/master/public/wanderly.png" />
-  <img width="400" src="https://github.com/AhmedTakeshy/Foody/blob/master/public/Screen%20Shot%202023-08-23%20at%201.28.55%20PM.png?raw=true" />
+  <img width="400" src="https://github.com/AhmedTakeshy/HoReCa/blob/master/public/images/horeca-main%20sec.png" />
+  
  <a href="https://github.com/AhmedTakeshy/Wanderly">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Wanderly&theme=tokyonight" />
 </a>
-  <a href="https://github.com/AhmedTakeshy/Foody">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Foody&theme=tokyonight" />
-</a>
+  <a href="https://github.com/AhmedTakeshy/Horeca">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedTakeshy&repo=Horeca&theme=tokyonight" />
+  </a>
 </p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedTakeshy&theme=radical&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTakeshy&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical" width="355"/>
@@ -74,5 +72,5 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
 <br />
 <h2 align="center">About me 😇</h2>
 <br />
-<p>:eyes: I’m currently learning ... everything about accessibility from the design process to web development to testing and mastering react.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
+<p>:eyes: I’m currently learning ... about testing in details such unite testing, integrations, and E2E.</p>
+<p>:raising_hand: I’m looking to collaborate with ... Open Source projects with Next.js.</p>
