@@ -60,7 +60,7 @@
   </a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats-007.vercel.app/api?username=AhmedTakeshy&theme=radical&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage,prs_private" alt="GitHub basic statis"/>
+<img src="https://github-readme-stats-007.vercel.app/api?username=AhmedTakeshy&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged_percentage,include_all_prs" alt="GitHub basic statis"/>
 <img src="https://github-readme-stats-007.vercel.app/api/top-langs/?username=AhmedTakeshy&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="GitHub top languages" width="355"/>
 <img src="https://streak-stats.demolab.com?user=AhmedTakeshy&theme=radical" alt="GitHub Streak"  />
 </p>
